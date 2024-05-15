@@ -1,2 +1,5 @@
-# favorite-desserts-pl
-Test Run for Data Management Workshop in LL Meeting May 15, 2024
+# Favorite Desserts of the LEAF Lab 
+
+Listing:
+-Piper Lovegreen, McConnel's Double Peanut Butter Chip
+
